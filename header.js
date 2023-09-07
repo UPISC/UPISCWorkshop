@@ -1,5 +1,4 @@
 let appHeader = `
-	<!-- Header -->
 	<header id="header">
 
 		<nav id="nav">
@@ -16,7 +15,6 @@ let appHeader = `
 							</ul>
 				</li>
 
-				<!-- <li><a href="Agenda.html">Agenda</a></li> -->
 				<li><a href="#">Agenda<a>
 					<ul>
 						<li><a href="Agenda2023.html">2023</a></li>
@@ -28,7 +26,6 @@ let appHeader = `
 
 				<li><a href="TravelVenue.html">Travel and Venue</a></li>
 
-				<!-- <li><a href="https://pitt.co1.qualtrics.com/jfe/form/SV_eyvDLU1VyBYwr2u" -->
 				<li><a href="https://pitt.co1.qualtrics.com/jfe/form/SV_7OmbRE6JUemgWvY"
 						target="_blank">Registration</a></li>
 

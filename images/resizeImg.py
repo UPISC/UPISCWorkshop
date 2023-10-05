@@ -9,15 +9,16 @@ import numpy as np
 import os                                   # Files utilities
 
 
-im_in = "Shih.jpg"
-im_out = "Shih_resiezd.jpg"
+im_in = "Bedewy.jpg"
+ratio = 300/350
 
+im_out = im_in[:-4]+"_resized.jpg"
 collor = cv2.imread("background.jpg")
 direction = "height"
 im = cv2.imread(im_in)
 
 if direction == "width":
-    sides = int(len(im[:,0,0])*250/350 - len(im[0,:,0]))
+    sides = int(len(im[:,0,0])*ratio - len(im[0,:,0]))
     blank = im.copy()
     if sides % 2 > 0:
         blank = blank[:,:int(sides/2)+1,:]
@@ -32,7 +33,7 @@ if direction == "width":
     img = np.append(img,blank,axis=1)
 
 else:
-    sides = int(len(im[0,:,0])*350/250 - len(im[:,0,0]))
+    sides = int(len(im[0,:,0])/ratio - len(im[:,0,0]))
     blank = im.copy()
     if sides % 2 > 0:
         blank = blank[:int(sides/2)+1,:,:]

@@ -15,8 +15,6 @@ document.write('\
 								</ul>\
 					</li>\
 \
-					<li><a href="Agenda2024.html">Agenda</a></li>\
-\
 					<li><a href="RelatedInitiatives.html">Related Initiatives</a></li>\
 \
 					<li><a href="TravelVenue.html">Travel and Venue</a></li>\
@@ -31,6 +29,10 @@ document.write('\
 \
 					<li style="white-space: nowrap;">\
 						<a href="Agenda2024.html" class="button primary">UPISC Workshop</a>\
+					</li>\
+\
+					<li style="white-space: nowrap;">\
+					<a href="https://pitt.co1.qualtrics.com/jfe/form/SV_73383wY4ZYAMTgG" class="button primary" target="_blank">Contact Us</a>\
 					</li>\
 \
 				</ul>\

@@ -9,52 +9,38 @@
 
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://upisc.github.io/UPISCWorkshop/index.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://upisc.github.io/UPISCWorkshop/SteeringCommittee.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.40</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/ConferenceOrganizers.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.40</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/KeyFaculty.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.40</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/Agenda2024.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/Agenda2023.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.20</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/Agenda2022.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.20</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/RelatedInitiatives.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.20</priority>
 </url>
 <url>
   <loc>https://upisc.github.io/UPISCWorkshop/TravelVenue.html</loc>
-  <lastmod>2024-08-19T11:08:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.20</priority>
 </url>
 </urlset>

@@ -1,5 +1,4 @@
 document.write('\
-		<link rel="icon" href="favicon/favicon2_192.ico">\
 		<header id="header">\
 \
 			<nav id="nav">\

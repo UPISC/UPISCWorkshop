@@ -28,7 +28,7 @@ document.write('\
 					</li>\
 \
 					<li style="white-space: nowrap;">\
-						<a href="Agenda2024.html" class="button primary">UPISC Workshop</a>\
+						<a href="Agenda2026.html" class="button primary">UPISC Workshop</a>\
 					</li>\
 \
 					<li style="white-space: nowrap;">\
